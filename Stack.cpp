@@ -2,6 +2,7 @@
 using namespace std;
 #define MAX 5
 
+
 struct Stack {
     char elements[MAX];
     int top;
